@@ -86,6 +86,7 @@ export FZF_BASE=~/.fzf
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
 	git
+	gh
 	zsh-autosuggestions
 	fzf
 )
