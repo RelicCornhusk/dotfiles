@@ -1,0 +1,15 @@
+[user]
+	email = amazon.unlikableness@simplelogin.co
+	name = Vitor
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[push]
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
